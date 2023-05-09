@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bdanmo
-- 👀 I’m interested in full stack and front end development.
-- 🌱 I’m currently learning SQL/sequelize with Node/Express, frameworks (React, Vue), and buidling REST API's with Express
-- 💞️ I’m looking to collaborate on full stack javaScript projects.
+- 👀 I’m interested in full stack, application, and back-end development.
+- 🌱 I'm currently learning the ins and outs of both Python and Powershell
+- 💞️ I'd love to collaborate on any of your Python, Powershell, JavaScript, or Go projects!
 - 📫 How to reach me: bdanmo7@gmail.com, Insta: @bdanmo
 
 <!---
