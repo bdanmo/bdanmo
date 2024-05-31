@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bdanmo
-- 👀 I’m interested in full stack, application, and back-end development.
-- 🌱 I'm currently learning the ins and outs of Python, Powershell, and Svelte.js
-- 💞️ I'd love to collaborate on any of your Python, Powershell, JavaScript, or Go projects!
+- 👀 I’m interested in back-end devlopment, infra, and CI/CD.
 - 📫 How to reach me: bdanmo7@gmail.com, Insta: @bdanmo
 
 <!---
