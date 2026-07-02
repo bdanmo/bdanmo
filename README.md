@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bdanmo
-- 👀 I’m interested in back-end devlopment, infra, and CI/CD.
-- 📫 How to reach me: bdanmo7@gmail.com, Insta: @bdanmo
+Cloud platform engineer. Azure, Terraform, GitHub Actions, Ansible, Python, PowerShell, Bash.
+I build IaC frameworks, GitOps pipelines, and endpoint automation.
+Currently learning Go and pursuing Security+ and AZ-500.
 
 <!---
 bdanmo/bdanmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
